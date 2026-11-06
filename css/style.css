@@ -1,0 +1,83 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 20px;
+    color: #333;
+}
+
+/* Titulos */
+h1 {
+    color: #234a70;
+}
+
+h2 {
+    color: #38658a;
+}
+
+/* Enlaces */
+a {
+    color: #245b91;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Formularios */
+form {
+    background-color: white;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 600px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}
+
+/* Botones */
+button {
+    background-color: #245b91;
+    color: white;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #183f66;
+}
+
+/* Tabla */
+table {
+    border-collapse: collapse;
+    background-color: white;
+    margin-top: 10px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #245b91;
+    color: white;
+}
+
+/* Lista de ejercicios */
+li {
+    margin-bottom: 10px;
+}
